@@ -1,0 +1,2 @@
+# HumanFoxy
+GlobalSMP
